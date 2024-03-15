@@ -74,14 +74,14 @@ const dataSecy = [
 	},
 	{
 		name: "Aastik Sharma",
-		designation: "Social and Cultural Secretary",
+		designation: "Cultural Secretary",
 		img: "aastik_cult.jpeg",
 		phone: "+91 88006 40787",
 		email: "aastik_s@ch.iitr.ac.in",
 	},
 	{
 		name: "Ashish Jaiswal",
-		designation: "Maintainance Secretary",
+		designation: "Maintenance Secretary",
 		img: "ashish_maintain.jpeg",
 		phone: "+91 79059 96099",
 		email: "ashish_j@ar.iitr.ac.in",

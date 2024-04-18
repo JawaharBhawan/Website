@@ -24,7 +24,7 @@ export default function About() {
 					</p>
 				</div>
 				<div className="aboutImg">
-					<img className="aboutImg" src="/Images/about.png" />
+					<img className="aboutImg" src="./Images/about.png" />
 				</div>
 			</section>
 	);

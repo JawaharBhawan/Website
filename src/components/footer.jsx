@@ -4,8 +4,8 @@ export default function Footer() {
 	return (
 		<>
 		<section className="footerMain" id="ContactUs">
-			<img className="footerTopBg" src="/Images/RadialCircle.svg" />
-			<img className="footerBottomBg" src="/Images/RadialCircle.svg" />
+			<img className="footerTopBg" src="./Images/RadialCircle.svg" />
+			<img className="footerBottomBg" src="./Images/RadialCircle.svg" />
 
 			<div className="leftSection">
 				<div className="topLeftSection">

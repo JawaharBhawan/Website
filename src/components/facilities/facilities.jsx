@@ -26,14 +26,14 @@ export default function Facilities() {
 						</p>
 					</div>
 					<div className="aboutImg">
-						<img src="/Images/about.png" />
+						<img src="./Images/about.png" />
 					</div>
 				</section>
 				<section className="aboutMainMobile" id="About">
 					<div className="aboutContent">
 						<h1>About Us</h1>
 						<div className="aboutImgMobile">
-							<img src="/Images/hero-min.jpg" />
+							<img src="./Images/hero-min.jpg" />
 						</div>
 						<p>
 							Jawahar Bhawan is one of the oldest and most beautiful bhawans in

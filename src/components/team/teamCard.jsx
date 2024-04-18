@@ -18,7 +18,7 @@ export default function TeamCard(props) {
 			</div>
 			<div className="cardMiddle">
 				{/* <div className="cardBlock1" /> */}
-				<img src={"/Images/team/" + props.props.img} />
+				<img src={"./Images/team/" + props.props.img} />
 				{/* <div className="cardBlock2" /> */}
 			</div>
 			<div className="cardName">{props.props.name}</div>

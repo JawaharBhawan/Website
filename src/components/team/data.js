@@ -2,21 +2,21 @@ const dataWardens = [
 	{
 		name: "Ravindra Pandey",
 		designation: "Chief Warden",
-		img: "chief_warden.jpg",
+		img: "chief_warden.jpeg",
 		phone: "",
 		email: "cw-jawaharbhawan@iitr.ac.in",
 	},
 	{
-		name: "Rahul Mulik",
+		name: "Basant Yadav",
 		designation: "Mess Warden",
-		img: "Rahul_mess_warden.jpg",
-		phone: "",
-		email: "rahul.mulik@me.iitr.ac.in",
+		img: "basant_mess_warden.jpeg",
+		phone: "9899286153",
+		email: "basant.yadav@wr.iitr.ac.in",
 	},
 	{
 		name: "Vinod Pankajakshan",
 		designation: "Wellness Warden",
-		img: "wellness_warden.png",
+		img: "wellness_warden.jpeg",
 		phone: "",
 		email: " vinod.pankajakshan@ece.iitr.ac.in",
 	},
@@ -30,16 +30,23 @@ const dataWardens = [
 	{
 		name: "Bargaje Ganesh P",
 		designation: "Residential Warden",
-		img: "assistant_warden2.png",
+		img: "assistant_warden2.jpeg",
 		phone: "+91 81859 47141",
 		email: "",
 	},
     {
 		name: "Ashish Kumar Dhingya",
 		designation: "Supervisor",
-		img: "supervisor.png",
+		img: "supervisor.jpeg",
 		phone: "+91 70606 16348",
 		email: "jawaharbhawan@iitr.ac.in",
+	},
+    {
+		name: "Anand Singh Rawat",
+		designation: "Mess manager ",
+		img: "mess_manager.jpeg",
+		phone: "+91 96392 48247",
+		email: "jawaharbhawanmess@iitr.ac.in",
 	}
 ];
 
